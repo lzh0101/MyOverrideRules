@@ -1,12 +1,11 @@
-name: '💤 Pokemon Sleep: 🚀 Direct'
+---
+name: "💤 Pokemon Sleep: 🚀 Direct"
 desc: |-
   Pokemon Sleep 直连覆写
   确保手游连接不走代理，降低延迟。
-author: 'Gemini'
-icon: 'https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Pokemon_Go.png'
-category: '🎮 Games'
-date: '2026-01-24'
-
-# 核心规则部分
+author: Gemini
+icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Pokemon_Go.png
+category: 🎮 Games
+date: 2026-01-24
 rule:
   - DOMAIN-SUFFIX,sleep.pokemon.co.jp,DIRECT
