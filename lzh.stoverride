@@ -13,4 +13,4 @@ version: '1.0.0'
 
 rules:
   # 精确匹配官网域名
-  - DOMAIN,sleep.pokemon.co.jp,DIRECT
+  - DOMAIN,api.sleep.pokemon.co.jp,DIRECT
