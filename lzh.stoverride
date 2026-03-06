@@ -15,3 +15,4 @@ rules:
   # 精确匹配官网域名
   - DOMAIN-SUFFIX,sleep.pokemon.co.jp,DIRECT
   - DOMAIN-SUFFIX,spotify.com,DIRECT
+  - DOMAIN-SUFFIX,xiaohongshu.com,DIRECT
